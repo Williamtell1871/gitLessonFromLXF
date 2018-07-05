@@ -38,3 +38,4 @@
    git remote -v ：查看远程库的详细信息
    git push origin master  ：Git会把master分支推送到远程库对应的远程分支上
    rm .git -rf :在有.git文件夹的父级文件夹（即标注master的文件夹）下输入此命令，删除关联到git
+   git pull :将远程库某个分支的更新，再与本地的指定分支合并
